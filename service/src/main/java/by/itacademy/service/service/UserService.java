@@ -4,7 +4,6 @@ import by.itacademy.database.dao.UserDao;
 import by.itacademy.database.entity.User;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
-
 import java.util.List;
 import java.util.stream.Collectors;
 

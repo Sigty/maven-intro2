@@ -4,7 +4,6 @@ import by.itacademy.database.connection.ConnectionPool;
 import by.itacademy.database.entity.User;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
-
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -44,7 +43,6 @@ public class UserDao {
     }
 
     public static UserDao getInstance() {
-
         return INSTANCE;
     }
 

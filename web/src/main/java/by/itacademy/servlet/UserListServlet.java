@@ -1,7 +1,6 @@
 package by.itacademy.servlet;
 
 import by.itacademy.service.service.UserService;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
